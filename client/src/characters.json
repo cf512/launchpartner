@@ -1,10 +1,10 @@
 [
   {
     "id": 0,
-    "name": "Test",
-    "from": "Test City, TX, USA",
-    "image": "https://placehold.it/80x80",
-    "about": "Test"
+    "name": "ReactJS Connor, a.k.a Good MERNing",
+    "from": "Austin, Texas",
+    "image": "https://content.screencast.com/users/ConnorConnorF/folders/Snagit/media/73a0993b-ff89-454b-b13d-911cbc522450/connor-profile-pic.jpeg",
+    "about": "Connor is a lifelong Texan who was born in 1982, has an amazing wife and a precious daughter, and he enjoys software development, fishing, the outdoors, and traveling."
   },
   {
     "id": 1,
@@ -99,13 +99,6 @@
   },
   {
     "id": 14,
-    "name": "ReactJS Connor, a.k.a Good MERNing",
-    "from": "Austin, Texas",
-    "image": "https://content.screencast.com/users/ConnorConnorF/folders/Snagit/media/73a0993b-ff89-454b-b13d-911cbc522450/connor-profile-pic.jpeg",
-    "about": "Connor is a lifelong Texan who was born in 1982, has an amazing wife and a precious daughter, and he enjoys software development, fishing, the outdoors, and traveling."
-  },
-  {
-    "id": 15,
     "name": "Doc",
     "from": "Louisville, KY, USA",
     "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/e/e7/1445910018683.gif/revision/latest?cb=20180306121930",
