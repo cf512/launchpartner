@@ -1,3 +1,9 @@
+/* For contrast for the character input form */
+.formStyle {
+  background: lightgrey;
+  padding: 1.5%;
+}
+
 .App {
   text-align: center;
 }
