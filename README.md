@@ -4,6 +4,12 @@
 
 ---
 
+### Deployed Version:
+
+https://launchpartnerconnor.herokuapp.com/
+
+---
+
 ### Developer's Comments:
 
 Quite a fun assignment. My coding bootcamp program moved at a super fast pace, so it was nice spending time getting more familiar with different aspects of ReactJS and MERN.
