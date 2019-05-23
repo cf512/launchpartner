@@ -1,1 +1,0 @@
-# Coding Exercise for LaunchPartner.co
