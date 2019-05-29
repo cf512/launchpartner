@@ -13,6 +13,10 @@ export default {
   deleteCharacter: function(id) {
     return axios.delete("/api/characters/" + id);
   },
+  // Update the character with the given id
+  updateCharacter: function(id, characterData) {
+    return axios.post("/api/characters/" + id, characterData);
+  },
   // Saves a character to the database
   saveCharacter: function(characterData) {
     return axios.post("/api/characters", characterData);
