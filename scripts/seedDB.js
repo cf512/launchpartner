@@ -13,7 +13,7 @@ const characterSeed = [
   {
     name: "ReactJS Connor, a.k.a Good MERNing",
     from: "Austin, Texas",
-    image: "https://content.screencast.com/users/ConnorConnorF/folders/Snagit/media/73a0993b-ff89-454b-b13d-911cbc522450/connor-profile-pic.jpeg",
+    image: "https://i.imgur.com/54LybNw.jpg",
     about: "Connor is a lifelong Texan who was born in 1982. He is husband to an amazing wife, father to a precious daughter, and he enjoys software development, fishing, the outdoors, and traveling.",
     date: new Date(Date.now())
   },
@@ -28,7 +28,7 @@ const characterSeed = [
     name: "Iron Mike",
     from : "Catskill, NY, USA",
     image: "https://vignette.wikia.nocookie.net/punchout/images/0/00/Mike_Tyson.png",
-    about: "Mike Tyson made hme debut in \"Mike Tyson's Punch-Out!!\" on the Nintendo Entertainment System as the final opponent of the game, whom Little Mac faces in the Dream Fight at the end.",
+    about: "Mike Tyson made his debut in \"Mike Tyson's Punch-Out!!\" on the Nintendo Entertainment System as the final opponent of the game, whom Little Mac faces in the Dream Fight at the end.",
     date: new Date(Date.now())
   },
   {
