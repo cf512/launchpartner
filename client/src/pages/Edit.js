@@ -86,7 +86,7 @@ export default class EditCharacter extends Component {
             <div>
                 <hr />
                 <div className="container">
-                    <h3>Update Todo</h3>
+                    <h3>Edit Character</h3>
                     <form onSubmit={this.onSubmit}>
                         <div className="form-group">
                             <label>Image: </label>
@@ -136,44 +136,6 @@ export default class EditCharacter extends Component {
                         </div>
                     </form>
                 </div>
-                {/* <hr />
-                <div className="container">
-                    <div>
-                        <h3 align="center">Update Character</h3>
-                        <form onSubmit={this.handleFormSubmit}>
-                            <div className="form-group">
-                                <label>Name: </label>
-                                <input type="text"
-                                    className="form-control"
-                                    value={this.state.name}
-                                    onChange={this.handleInputChange}
-                                />
-                            </div>
-                            <div className="form-group">
-                                <label>From: </label>
-                                <input
-                                    type="text"
-                                    className="form-control"
-                                    value={this.state.from}
-                                    onChange={this.handleInputChange}
-                                />
-                            </div>
-                            <div className="form-group">
-                                <label>About: </label>
-                                <input
-                                    type="text"
-                                    className="form-control"
-                                    value={this.state.about}
-                                    onChange={this.handleInputChange}
-                                />
-                            </div>
-                            <br />
-                            <div className="form-group">
-                                <input type="submit" value="Update Todo" className="btn btn-primary" />
-                            </div>
-                        </form>
-                    </div>
-                </div> */}
             </div>
         )
     }
