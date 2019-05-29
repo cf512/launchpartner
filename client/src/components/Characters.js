@@ -1,10 +1,12 @@
 import React from "react";
+// import { Input, FormBtn } from "../components/Form";
+import { Link } from 'react-router-dom';
 
 function Characters(props) {
   return (
-    <div className="card">
+    <div className="card characterStyle">
       <div className="img-container">
-        <img alt={props.name} src={props.image} style={{width:"80px"}} />
+        <img alt={props.name} src={props.image} style={{ width: "80px" }} />
       </div>
       <div className="content">
         <ul>
@@ -18,6 +20,11 @@ function Characters(props) {
             <strong>About:</strong> {props.about}
           </li>
         </ul>
+      </div>
+      <div>
+        <Link to={"/edit/" + props.id}>
+          <div className="btn btn-warning float-right">Edit</div>
+        </Link>
       </div>
     </div>
   );
